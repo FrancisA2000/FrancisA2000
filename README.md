@@ -101,8 +101,6 @@ Real-time separation of heartbeat and breathing sounds using TI C674x DSP. Featu
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancisA2000&show_icons=true&theme=default&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisA2000&layout=compact&theme=default&hide_border=true)
 
 ---
